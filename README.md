@@ -61,19 +61,11 @@ The script will automatically check for these packages and prompt the user to in
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/wits-v2.git
-cd wits-v2
+wget https://raw.githubusercontent.com/thekugelblitz/wits/main/witsV2.sh
+chmod +x witsV2.sh
 ```
 
 ### Run the Script
-
-Make sure the script has executable permissions. If not, you can set them using:
-
-```bash
-chmod +x wits.sh
-```
-
-Run the script:
 
 ```bash
 ./wits.sh
