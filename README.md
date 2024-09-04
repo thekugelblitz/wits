@@ -68,7 +68,7 @@ chmod +x witsV2.sh
 ### Run the Script
 
 ```bash
-./wits.sh
+./witsV2.sh
 ```
 
 ### Script Output
