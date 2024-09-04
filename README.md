@@ -56,18 +56,13 @@ The script will automatically check for these packages and prompt the user to in
 - It is highly recommended to run this on a new/fresh server rather than a server running in production. I created and tested the script on the cPanel/WHM server based on CloudLinux OS 8 with active test websites running in the background. Though I recommend running it a little carefully.
 - This script uses lots of small commands via many packages, overtime these all will start to stop running effectively. So consider updating the script manually or using AI like ChatGPT. I created v1 back in the college in 2018. Version 2 was needed for the same reason, I used copilot and some part of ChatGPT 4o to make it awesome again! 
 
-### Clone the Repository
+### Clone the Repository to RUN!
 
 To get started, clone the repository to your local machine:
 
 ```bash
 wget https://raw.githubusercontent.com/thekugelblitz/wits/main/witsV2.sh
 chmod +x witsV2.sh
-```
-
-### Run the Script
-
-```bash
 ./witsV2.sh
 ```
 
