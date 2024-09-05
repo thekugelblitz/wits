@@ -340,7 +340,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by **Dhruval Joshi from HostingSpell**.
+Developed by **Dhruval Joshi from [HostingSpell.com](https://hostingspell.com/)**. | Personal: [TheDhruval.com](https://thedhruval.com/)
 
 Updated here on 5th Sept 2024, 4.48 AM IST.
 
