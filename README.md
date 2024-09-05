@@ -85,9 +85,6 @@ Would you like to remove the installed packages? (Y/N): n
 
 Type `Y` to remove or `N` to keep the packages.
 
-
-Here’s the full output of the script with masked serial numbers to include in your README:
-
 ---
 
 ## Example Output
