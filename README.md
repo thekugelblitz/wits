@@ -336,7 +336,7 @@ Feel free to fork the repository and submit pull requests for any improvements o
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE Version 3**.
 
 ## Author
 
